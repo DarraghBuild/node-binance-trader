@@ -40,9 +40,7 @@ Once you have these accounts set up, you're ready to set up the actual trading!
 While the Bitcoin vs. Altcoins website itself is closed source, the  automated trading bot called [Node Binance Trader (NBT)](https://github.com/jsappme/node-binance-trader) is open source. It connects to your Binance account via the Binance API and executes the trades on your behalf.
 
 NBT needs to be hosted by yourself, which makes the deployment independent and secure. Luckily this is easy to set up and can be done with one click!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jsappme/node-binance-trader)
-
+Build.io
 Clicking this button will take you to this screen:
 
 ![heroku configuration](images/image11.png)
